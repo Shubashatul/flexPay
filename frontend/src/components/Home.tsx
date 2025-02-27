@@ -65,8 +65,8 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-gray-900 text-white py-6 text-center">
         <p className="text-sm">&copy; 2025 Flex-Pay. All rights reserved.</p>
-        <p className="text-sm mt-2">Created by Raj Kumar Pandey</p>
-        <p className="text-sm mt-1">Email: <a href="mailto:rpandeya12345@gmail.com" className="underline">rpandeya12345@gmail.com</a></p>
+        <p className="text-sm mt-2">Created by Shubash Atul Oroan</p>
+        <p className="text-sm mt-1">Email: <a href="mailto:shubashatul7867@gmail.com" className="underline">shubashatul7867@gmail.com</a></p>
       </footer>
     </div>
   );
